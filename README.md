@@ -1,2 +1,0 @@
-# BMS
-BMS with Lora
